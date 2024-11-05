@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science, AI/ML
 - 💞️ I’m looking to collaborate on automation projects
 - 📫 How to reach me @ victor.gichuru@strathmore.edu
-- ⚡ Fun fact: I love cooking
+- ⚡ Fun fact: I love literature
 
 <!---
 victorgpt0/victorgpt0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

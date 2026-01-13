@@ -2,7 +2,6 @@
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Computer Science, AI/ML
 - 💞️ I’m looking to collaborate on automation projects
-- 📫 How to reach me @ victor.gichuru@strathmore.edu
 - ⚡ Fun fact: I love literature
 
 <!---

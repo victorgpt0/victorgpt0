@@ -8,9 +8,7 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=victorgpt0&theme=black-ice&hide_border=true&background=0f0c29&ring=67e8f9&fire=67e8f9&currStreakLabel=67e8f9" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=victorgpt0)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=victorgpt0&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
